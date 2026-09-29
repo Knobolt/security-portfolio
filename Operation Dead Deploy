@@ -1,0 +1,24 @@
+# Investigating a Rule Breaking Azure Deployment 
+
+## Scenario
+Over the weekend an intern was given temporary Contributer access to deploy a test environment. The intern took shortcuts and left. I pick up the call as an on-call engineer on monday with Reader access. how did it happen and why did the governmence not stop it?
+
+## Environment
+- Platform: Microsoft Azure
+- Services: Resource groups, Azure policy, Storage accounts 
+- Environment: Live multi-user Azure Training tenant
+- Tools: Azure portal
+- Access Level: Live multi-user Azure Training tenant, Reader aceess
+
+
+## Investigation
+The core. Numbered steps IN YOUR OWN WORDS: what you looked at, what you found, what you concluded at each step. 6 to 12 screenshots of meaningful moments (portal views, query results, before/after).
+
+## What broke / what surprised me
+The most credible section in the document. Dead ends, wrong guesses, the thing that took an hour. Employers know real work is messy. This section separates you from certificate collectors.
+
+## Findings and recommendations
+What you determined, plus 2 or 3 recommendations as if you were reporting to the resource owner.
+
+## What I learned
+3 to 5 bullets. At least one technical, one "what I'd do differently."
